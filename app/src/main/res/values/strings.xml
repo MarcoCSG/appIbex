@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ibex</string>
+    <string name="correoEdt">Ingrese su correo</string>
+    <string name="correo">Correo</string>
+    <string name="passwordEdt">Ingrese su contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresarBtn">Ingresar</string>
+    <string name="seleccionaEmpresaTxt">Selecciona una empresa</string>
+    <string name="txt_periodoSelec">Seleccionar periodo</string>
+    <string name="textoInicio">CONTROL DE PATRIMONIO GUBERNAMENTAL</string>
+    <string name="olvidarContraseña">¿Olvidaste tu contraseña?</string>
+    <string name="selecciona_una_empresa">Selecciona una empresa</string>
+</resources>
