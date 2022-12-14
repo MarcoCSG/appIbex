@@ -10,4 +10,12 @@
     <string name="textoInicio">CONTROL DE PATRIMONIO GUBERNAMENTAL</string>
     <string name="olvidarContraseña">¿Olvidaste tu contraseña?</string>
     <string name="selecciona_una_empresa">Selecciona una empresa</string>
+    <string name="selecciona_su_periodo">selecciona su periodo</string>
+    <string name="reportes">Reportes</string>
+    <string name="escanear">Escanear</string>
+    <string name="catalogo">Catalogo</string>
+    <string name="agregar">Agregar</string>
+    <string name="muebles">Muebles</string>
+    <string name="inmuebles">Inmuebles</string>
+    <string name="opciones">Opciones</string>
 </resources>

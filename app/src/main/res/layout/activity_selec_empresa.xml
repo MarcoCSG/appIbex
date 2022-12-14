@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SelecPeriodo">
+    tools:context=".SelecEmpresa">
 
     <ImageView
         android:id="@+id/imageView"
@@ -25,7 +25,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="25dp"
         android:layout_marginEnd="32dp"
-        android:text="@string/selecciona_su_periodo"
+        android:text="@string/selecciona_una_empresa"
         android:textColor="@color/textos"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -41,7 +41,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="32dp"
-        android:text="Periodo"
+        android:text="Empresa"
         android:textColor="@color/textos"
         android:textSize="20sp"
         android:textStyle="bold"
