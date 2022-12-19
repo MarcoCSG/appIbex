@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="button_redondo">#57CC99</color>
     <color name="button_redondoMenu">#EFEFEF</color>
+    <color name="colorBarraNavegacion">#FFFFFF</color>
     <color name="textos">#283851</color>
 </resources>

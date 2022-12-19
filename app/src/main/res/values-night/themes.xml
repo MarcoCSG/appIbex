@@ -12,5 +12,16 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="bottomNavigationStyle">@style/widget.App.BottonNavigationView</item>
     </style>
+
+    <style name="widget.App.BottonNavigationView" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottonNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottonNavigationView" parent="">
+        <item name="colorPrimary">@color/colorBarraNavegacion</item>
+        <item name="colorOnPrimary">@color/colorBarraNavegacion</item>
+    </style>
+
 </resources>

@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val preferences = PreferenceHelper.defaultPrefs(this)
-        if (preferences["data", ""].contains(".")) { //sirve para guardar la sesion
+        if (preferences["data", ""].contains("")) { //sirve para guardar la sesion
             periodo()
         }
 
@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun periodo() {
-        val i = Intent(this, SelecPeriodo::class.java )//metodo intent para entrar a la siguiente vista
+        val i = Intent(this, SelecEmpresa:: class.java)//metodo intent para entrar a la siguiente vista
         startActivity(i)
         finish()
     }
