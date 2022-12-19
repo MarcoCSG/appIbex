@@ -10,7 +10,7 @@
 
     <item android:id="@+id/nav_opciones"
         android:title="@string/opciones"
-        android:icon="@drawable/ic_opciones"/>
+        android:icon="@drawable/ic_android"/>
 
 
 
